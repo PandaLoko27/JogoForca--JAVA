@@ -8,7 +8,6 @@ Projeto simples de um **jogo da forca** desenvolvido em **Java**, utilizando os 
 
 - Menu interativo para iniciar ou sair do jogo.
 - Palavra secreta gerada aleatoriamente.
-- Validação de letras repetidas.
 - Exibição do boneco da forca de forma progressiva conforme os erros.
 - Mensagens de vitória ou derrota ao final.
 
