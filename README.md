@@ -1,4 +1,4 @@
-# 🪓 Jogo da Forca - Java Console
+# 🪓 Jogo da Forca
 
 Projeto simples de um **jogo da forca** desenvolvido em **Java**, utilizando os princípios da **Programação Orientada a Objetos (POO)**. O jogo é executado no console e simula o tradicional jogo da forca com palavras variadas.
 
