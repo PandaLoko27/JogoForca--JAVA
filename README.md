@@ -74,7 +74,13 @@ Digite uma letra:
 
 ---
 
+
+## 📝 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
+
 ## 👨‍💻 Desenvolvido por
 
-Otávio Guedes – Estudante de Engenharia de Software 🧠
-💻 Foco em Back-end com Python e Java
+Otávio Guedes – 💻
