@@ -21,8 +21,8 @@ public class Menu {
 
             switch (opcao) {
                 case 1 -> iniciarJogo();
-                case 2 -> System.out.println("\nSaindo do jogo. Até logo!");
-                default -> System.out.println("\nOpção inválida!");
+                case 2 -> System.out.println("\nAté a próxima!");
+                default -> System.out.println("\nOpção inválida! [Selecione a opção entre 1 e 2]");
             }
         } while (opcao != 2);
     }
